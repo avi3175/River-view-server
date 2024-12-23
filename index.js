@@ -72,7 +72,7 @@ let reviewsCollection;
 
 async function connectDB() {
   try {
-    await client.connect();
+    // await client.connect();
     const database = client.db("RiverDB");
     usersCollection = database.collection("users");
     roomsCollection = database.collection("rooms");
