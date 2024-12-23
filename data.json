@@ -1,0 +1,93 @@
+[
+    {
+      "category": "Burger",
+      "name": "Classic Beef Burger",
+      "image": "https://www.shutterstock.com/image-photo/classic-hamburger-stock-photo-isolated-600nw-2282033179.jpg",
+      "price": 8.99
+    },
+    {
+      "category": "Burger",
+      "name": "Cheese Lover's Burger",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQrvPdd-jQX_8ZayxGc6VrI039DTYdz1No1hA&s",
+      "price": 9.49
+    },
+    {
+      "category": "Burger",
+      "name": "Spicy Chicken Burger",
+      "image": "https://media.istockphoto.com/id/521207406/photo/southern-country-fried-chicken-sandwich.jpg?s=612x612&w=0&k=20&c=XfttLSxEO2YAjop4Gy0CIb1L5N_OK1tTKxmkiPr3QD8=",
+      "price": 8.79
+    },
+    {
+      "category": "Burger",
+      "name": "Veggie Delight Burger",
+      "image": "https://img.freepik.com/premium-photo/veggie-delight_992397-118.jpg",
+      "price": 7.99
+    },
+    {
+      "category": "Burger",
+      "name": "BBQ Bacon Burger",
+      "image": "https://img.freepik.com/premium-photo/bbq-bacon-burger-with-barbecue-sauce_1179130-207.jpg",
+      "price": 10.99
+    },
+    {
+      "category": "Pizza",
+      "name": "Margherita Pizza",
+      "image": "https://img.freepik.com/premium-photo/italian-pizza-margherita-black-background_356194-1114.jpg",
+      "price": 12.99
+    },
+    {
+      "category": "Pizza",
+      "name": "Pineapple Pizza",
+      "image": "https://images6.alphacoders.com/134/1344286.png",
+      "price": 14.49
+    },
+    {
+      "category": "Pizza",
+      "name": "BBQ Chicken Pizza",
+      "image": "https://img.freepik.com/premium-photo/bbq-chicken-pizza-with-barbecue-sauce-best-pizza-picture-photography_1020697-62535.jpg",
+      "price": 13.99
+    },
+    {
+      "category": "Pizza",
+      "name": "Veggie Supreme Pizza",
+      "image": "https://img.freepik.com/premium-photo/veggie-supreme-pizza_941761-42.jpg",
+      "price": 11.99
+    },
+    {
+      "category": "Pizza",
+      "name": "Fish Pizza",
+      "image": "https://thumbs.dreamstime.com/b/delicious-fish-chips-ham-pizza-spicy-salmon-salad-delicious-fish-chips-100046694.jpg",
+      "price": 15.49
+    },
+    {
+      "category": "Steak",
+      "name": "Classic Ribeye Steak",
+      "image": "https://thumbs.dreamstime.com/b/medium-rare-ribeye-steak-wooden-board-selected-focus-prime-black-angus-degree-doneness-74666355.jpg",
+      "price": 25.99
+    },
+    {
+      "category": "Steak",
+      "name": "Filet Mignon",
+      "image": "https://c4.wallpaperflare.com/wallpaper/312/810/452/greens-meat-tomatoes-steaks-wallpaper-preview.jpg",
+      "price": 22.49
+    },
+    {
+      "category": "Steak",
+      "name": "New York Strip",
+      "image": "https://bakeitwithlove.com/wp-content/uploads/2020/05/Pan-Seared-New-York-Strip-Steak-lg-sq-500x375.jpg",
+      "price": 23.79
+    },
+    {
+      "category": "Steak",
+      "name": "Grilled T-Bone Steak",
+      "image": "https://onestophalal.com/cdn/shop/articles/reverse_sear_t_bone_steak-1696657532309_1200x.jpg?v=1696657573",
+      "price": 27.99
+    },
+    {
+      "category": "Steak",
+      "name": "Smoked Brisket",
+      "image": "https://example.com/images/smoked-brisket.jpg",
+      "price": 29.99
+    }
+  ]
+  
