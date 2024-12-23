@@ -173,6 +173,13 @@ app.post('/api/admin/rooms', upload.single('roomImage'), async (req, res) => {
 });
 
 // Fetch All Rooms Endpoint
+
+// Root route handling
+app.get("/", (req, res) => {
+  res.send("Welcome to the River API!");  // Response when accessing the root URL
+});
+
+
 app.get('/api/rooms', async (req, res) => {
   try {
     const rooms = await roomsCollection.find().toArray();
